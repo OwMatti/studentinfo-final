@@ -1,0 +1,72 @@
+
+  .roboto-regular {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  #hello {
+    font-family: "Roboto", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1.8em;
+    color: #0f0c9c; 
+    background-image: linear-gradient(135deg, #0f0c9c 13%, #f141fa 52%, #ffe9a6 84%); 
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+    
+  }
+
+  #world {
+    font-family: "Roboto", serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 2em;
+   
+
+  }
+
+  #world {
+    color: #0f0c9c; 
+    background-image: linear-gradient(135deg, #0f0c9c 13%, #f141fa 52%, #ffe9a6 84%); 
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+
+  }
+  
+  /** Text Gradient Example */ 
+.text-gradient {
+    color: #883bee; 
+    background-image: linear-gradient(45deg, #883bee 4%, #fce576 84%, #d24bee 3%, #591df8 96%); 
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+   }
+
+/** Text Gradient Example BEYOND*/ 
+.text-gradient {
+    color: #2403fc; 
+    background-image: radial-gradient(closest-side, #2403fc 58%, #2500c3 64%, #1e028c 16%, #140459 46%, #08032b 98%); 
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+   }
+/* Universe */
+   .text-gradient {
+    color: #9a02db; 
+    background-image: linear-gradient(90deg, #9a02db 58%, #001b38 64%); 
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+   }
+
+/** Text Gradient LOYALTY*/ 
+.text-gradient {
+    color: #0f0c9c; 
+    background-image: linear-gradient(135deg, #0f0c9c 13%, #f141fa 52%, #ffe9a6 84%); 
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+   }
